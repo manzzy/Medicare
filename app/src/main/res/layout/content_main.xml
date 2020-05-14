@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".HomeActivity"
+    tools:showIn="@layout/tollbar">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:text="ashbvajshbvjhb asv bvuhbSUV sdbvhBDSUHVBbdv DVuhsdhSUHV svHSDVsduvUK DV sdvkuhDVUHsuyvk KSD VSDVuvduyDHV dv DVdv
+dvKUDVudvUVD duvUVU v SDVyvyUVVsdv v  VudbvUD dsuDVV d  uysd ud  y YSDI dfv DysdvUYSBDI  YSDGFdfD F dfausbvuasbashbvaf vasbfvaus v vbfsv "/>
+
+</androidx.core.widget.NestedScrollView>
